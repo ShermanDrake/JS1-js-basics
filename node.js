@@ -42,3 +42,4 @@ else {
 }
 
 console.log('will you be served? ' + canDrink)
+console.log('Yes')
